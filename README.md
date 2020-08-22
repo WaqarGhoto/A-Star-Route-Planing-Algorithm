@@ -2,7 +2,6 @@
 Implementation of A Star algorithm to find the shortest path for ambulances. It's implementation is done in java Netbeans. 
 How this application works
 Step 1 :
-
         Run the Project/ exe file and you will see the U.I implemented Which containes One Grid, Add Ambulance and Add Patient
         Grid : this grid contains diffrent colors of small squars. Diffrent color represnt different object 
                1) Black Squars represent a road/path for vehicles
