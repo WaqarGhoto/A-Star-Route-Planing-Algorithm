@@ -16,4 +16,4 @@ Step 3:
         2) Click on the any white squar where you want to locat the patient. after click it will be chnage to red.
         repeat these steps to add more patients as much you want. 
 Step 4:
-       Click on Button Generate Path and See the Output
+       Click on Button name as Generate Path and See the Output
