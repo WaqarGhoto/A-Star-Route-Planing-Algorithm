@@ -13,8 +13,9 @@ Step 1 :
                ![Step 1](https://user-images.githubusercontent.com/33633694/165258069-507f66ca-a532-48a2-b3e3-530e0b98be13.png)
 Step 2: 
         Add the Ambulances to Hospital 
+        ![Step 2](https://user-images.githubusercontent.com/33633694/165260481-e0eba571-0c0b-4de2-b13b-1dfc682cfe42.png)
+
         
-        ![Step 2](https://user-images.githubusercontent.com/33633694/165259881-7a1ba6dd-1ded-4e9e-99ae-365b00467d61.png)
 
 
 Step 3:
