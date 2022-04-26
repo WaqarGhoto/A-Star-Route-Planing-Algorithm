@@ -11,6 +11,7 @@ Step 1 :
                5) Green squars represent the shortest path coverd by ambulance to reach the destination/patient
 Step 2: 
         Add the Ambulances to Hospital 
+        ![Optional Text](../Running Steps Images/Step 1.PNG)
 Step 3:
         1) Slect the category for the Patient (1,2,3)
         2) Click on the any white squar where you want to locat the patient. after click it will be chnage to red.
