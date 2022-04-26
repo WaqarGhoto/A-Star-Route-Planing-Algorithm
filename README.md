@@ -11,7 +11,8 @@ Step 1 :
                5) Green squars represent the shortest path coverd by ambulance to reach the destination/patient
 Step 2: 
         Add the Ambulances to Hospital 
-      https://raw.githubusercontent.com/WaqarGhoto/A-Star-Route-Planing-Algorithm/master/Running%20Steps%20Images/Step%201.PNG
+        ![Step 2](https://user-images.githubusercontent.com/33633694/165258069-507f66ca-a532-48a2-b3e3-530e0b98be13.png)
+
 Step 3:
         1) Slect the category for the Patient (1,2,3)
         2) Click on the any white squar where you want to locat the patient. after click it will be chnage to red.
